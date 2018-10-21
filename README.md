@@ -1,4 +1,3 @@
 # hello-word
-just another repository
+I am an angel, I have many amazing skills.
 
-so just a test
